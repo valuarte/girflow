@@ -1,2 +1,2 @@
-# girflow
+# gitflow
 Girflow exercise
